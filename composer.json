@@ -5,7 +5,7 @@
     "require": {
         "php": ">=7.4.0",
         "yiisoft/yii2": "^2.0.13",
-        "guzzlehttp/guzzle": "7.5.x-dev",
+        "guzzlehttp/guzzle": "^6.0",
         "ext-simplexml": "*"
     },
     "autoload": {
