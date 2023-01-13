@@ -1,5 +1,5 @@
 {
-    "name": "rc4347/cloudfront-signer",
+    "name": "rc4347/yii2-paybox",
     "minimum-stability": "dev",
     "type": "package",
     "require": {
