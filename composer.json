@@ -1,0 +1,21 @@
+{
+    "name": "rc4347/cloudfront-signer",
+    "minimum-stability": "dev",
+    "type": "package",
+    "require": {
+        "php": ">=7.4.0",
+        "yiisoft/yii2": "^2.0.13",
+        "guzzlehttp/guzzle": "7.5.x-dev",
+        "ext-simplexml": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "RC4347\\Yii2Paybox\\": "src"
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "yiisoft/yii2-composer": true
+        }
+    }
+}
